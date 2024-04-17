@@ -4,7 +4,7 @@
     <img src="img/connect4.JPG" alt="Tic Tac Toe App" width="400">
 </div>
 
-This Connect Four game is implemented in Python and utilizes various libraries and modules for different functionalities.
+This Connect Four game, implemented in Python, offers players various game modes, including Easy Mode against a simple AI, Hard Mode with a challenging AI powered by the Minimax Algorithm, and Two-Player Mode for local multiplayer. The game follows classic Connect Four rules, where players aim to connect four discs of the same color vertically, horizontally, or diagonally. It features an intuitive GUI using Pygame and utilizes libraries such as Numpy for efficient board representation and Math and Sys modules for game logic. Challenge yourself against the Hard Mode AI, which uses the powerful Minimax Algorithm to make strategic moves and provide a tough opponent. Players can run the program by executing the appropriate Python file in the terminal, choose their preferred game mode, and enjoy a fun and strategic gaming experience.
 
 ## Game Modes
 
