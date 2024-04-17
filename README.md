@@ -8,9 +8,9 @@ This Connect Four game, implemented in Python, offers players various game modes
 
 ## Game Modes
 
-- `Easy Mode`: Play against a simple AI that makes random moves. Type `Connect4_AI_EasyMode.py` into terminal.
+- `Easy Mode`: Play against a simple AI that makes random moves. Type `Connect4_AI_EasyMode-V2.py` into terminal.
 - `Hard Mode`: Challenge yourself against a more advanced AI that uses the minimax algorithm to make strategic moves. Type `Connect4_AI_HardMode.py` into terminal.
-- `Two-Player Mode`: Play against another human player on the same device, taking turns to drop colored discs into the grid. Type `Connect4_AI_TwoPlayers.py` into terminal.
+- `Two-Player Mode`: Play against another human player on the same device, taking turns to drop colored discs into the grid. Type `Connect4_AI_TwoPlayers-V2.py` into terminal.
 
 ## Game Logic
 
