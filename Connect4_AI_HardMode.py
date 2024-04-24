@@ -4,7 +4,7 @@ import numpy as np
 import pygame
 # for exiting the gui
 import sys
-# for calulations, for exampel with infinity
+# for calulations, for example with infinity
 import math
 # for delaying execution of certain events
 from threading import Timer
@@ -313,7 +313,7 @@ pygame.display.update()
 # -------------------------------
 
 # loop that runs while the game_over variable is false,
-# i.e., someone hasn't placed 4 in a row yet
+# i.e., someone hasn't placed 4 in a row yet..
 while not game_over:
 
     # for every player event
