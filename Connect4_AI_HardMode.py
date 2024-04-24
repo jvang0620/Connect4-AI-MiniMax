@@ -313,7 +313,7 @@ pygame.display.update()
 # -------------------------------
 
 # loop that runs while the game_over variable is false,
-# i.e., someone hasn't placed 4 in a row yet..
+# i.e., someone hasn't placed 4 in a row yet
 while not game_over:
 
     # for every player event
